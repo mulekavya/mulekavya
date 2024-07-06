@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mulekavya
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 🌱 I’m currently learning frontend
+- 💞️ I’m looking to collaborate on frontend
 - 📫 How to reach me through my email
 - mulekavya@gmail.com
 
